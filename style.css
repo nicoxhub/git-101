@@ -1,6 +1,7 @@
+
 body {
 	margin: 0;
-	font-family: Helvetica;
+	font-family: Heletica;
 }
 
 #logo {
@@ -10,8 +11,8 @@ body {
 
 #container {
 	display: flex;
-	align-items: center;
 	justify-content: center;
+	align-items: center;
 	height: 100vh;
 	flex-direction: column;
 }
